@@ -5,6 +5,7 @@
 void SceneOver::init()
 {
     timer = 0;
+    //
 }
 
 void SceneOver::update()
